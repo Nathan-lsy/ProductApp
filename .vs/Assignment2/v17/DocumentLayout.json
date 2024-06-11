@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\15562\\Desktop\\Assignment2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3B6113F7-F0B2-410B-AD25-20F44C5AEA6C}|ProductApp.nUnitTest\\ProductApp.nUnitTest.csproj|c:\\users\\15562\\desktop\\assignment2\\productapp.nunittest\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6113F7-F0B2-410B-AD25-20F44C5AEA6C}|ProductApp.nUnitTest\\ProductApp.nUnitTest.csproj|solutionrelative:productapp.nunittest\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6113F7-F0B2-410B-AD25-20F44C5AEA6C}|ProductApp.nUnitTest\\ProductApp.nUnitTest.csproj|c:\\users\\15562\\desktop\\assignment2\\productapp.nunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6113F7-F0B2-410B-AD25-20F44C5AEA6C}|ProductApp.nUnitTest\\ProductApp.nUnitTest.csproj|solutionrelative:productapp.nunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{42559B2B-ABC7-4322-B89D-FA9AB73681A4}|ProductApp\\ProductApp.csproj|c:\\users\\15562\\desktop\\assignment2\\productapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42559B2B-ABC7-4322-B89D-FA9AB73681A4}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +35,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "C:\\Users\\15562\\Desktop\\Assignment2\\ProductApp.nUnitTest\\ProductTests.cs",
+              "RelativeDocumentMoniker": "ProductApp.nUnitTest\\ProductTests.cs",
+              "ToolTip": "C:\\Users\\15562\\Desktop\\Assignment2\\ProductApp.nUnitTest\\ProductTests.cs",
+              "RelativeToolTip": "ProductApp.nUnitTest\\ProductTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:42:47.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\15562\\Desktop\\Assignment2\\ProductApp.nUnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ProductApp.nUnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\15562\\Desktop\\Assignment2\\ProductApp.nUnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "ProductApp.nUnitTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:42:28.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\15562\\Desktop\\Assignment2\\ProductApp\\Product.cs",
               "RelativeDocumentMoniker": "ProductApp\\Product.cs",
@@ -38,12 +76,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\15562\\Desktop\\Assignment2\\ProductApp\\Program.cs",
               "RelativeDocumentMoniker": "ProductApp\\Program.cs",

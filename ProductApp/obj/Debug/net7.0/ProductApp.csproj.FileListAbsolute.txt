@@ -1,0 +1,15 @@
+C:\Users\15562\Desktop\Assignment2\ProductApp\bin\Debug\net7.0\ProductApp.exe
+C:\Users\15562\Desktop\Assignment2\ProductApp\bin\Debug\net7.0\ProductApp.deps.json
+C:\Users\15562\Desktop\Assignment2\ProductApp\bin\Debug\net7.0\ProductApp.runtimeconfig.json
+C:\Users\15562\Desktop\Assignment2\ProductApp\bin\Debug\net7.0\ProductApp.dll
+C:\Users\15562\Desktop\Assignment2\ProductApp\bin\Debug\net7.0\ProductApp.pdb
+C:\Users\15562\Desktop\Assignment2\ProductApp\obj\Debug\net7.0\ProductApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15562\Desktop\Assignment2\ProductApp\obj\Debug\net7.0\ProductApp.AssemblyInfoInputs.cache
+C:\Users\15562\Desktop\Assignment2\ProductApp\obj\Debug\net7.0\ProductApp.AssemblyInfo.cs
+C:\Users\15562\Desktop\Assignment2\ProductApp\obj\Debug\net7.0\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\15562\Desktop\Assignment2\ProductApp\obj\Debug\net7.0\ProductApp.sourcelink.json
+C:\Users\15562\Desktop\Assignment2\ProductApp\obj\Debug\net7.0\ProductApp.dll
+C:\Users\15562\Desktop\Assignment2\ProductApp\obj\Debug\net7.0\refint\ProductApp.dll
+C:\Users\15562\Desktop\Assignment2\ProductApp\obj\Debug\net7.0\ProductApp.pdb
+C:\Users\15562\Desktop\Assignment2\ProductApp\obj\Debug\net7.0\ProductApp.genruntimeconfig.cache
+C:\Users\15562\Desktop\Assignment2\ProductApp\obj\Debug\net7.0\ref\ProductApp.dll
